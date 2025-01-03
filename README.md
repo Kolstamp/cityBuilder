@@ -1,2 +1,2 @@
-# cityBuilder
+# CityBuilder
 City builder game
